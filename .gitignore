@@ -1,0 +1,23 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*secret*
+*.pem
+*.key
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Large media; store separately with checksums
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.flac
+*.mkv
+*.webm
+# PNG / JPG deliberately not blanket-ignored because approved tiny assets / UI refs may be versioned selectively

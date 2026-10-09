@@ -1,0 +1,15 @@
+NARRATION LOCK TEMPLATE — EMPTY
+Episode ID:
+Working title:
+Narration language: English (US)
+Approved version:
+Approved at/by (external user evidence):
+SHA-256 of exact approved narration:
+Expected duration: 75–120s (planning target only)
+Actual audio duration: NOT_AVAILABLE
+
+--- BEGIN EXACT APPROVED NARRATION ---
+[INSERT TEXT ONLY AFTER STEP 03 EXPLICIT USER APPROVAL]
+--- END EXACT APPROVED NARRATION ---
+
+STOP: No narration is approved in this starter file. Do not synthesize audio or proceed as if narration is locked.

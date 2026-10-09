@@ -1,0 +1,25 @@
+QUALITY GATE REPORT — BLANK TEMPLATE
+Episode:
+Date:
+Source commit / package:
+Validated files:
+
+Gate:
+Status: NOT_RUN
+Evidence:
+Checks:
+ - Narration lock:
+ - Fact sourcing:
+ - Asset licenses and attribution:
+ - Audio and SRT sync:
+ - Every-second coverage:
+ - Keyframe/shot continuity:
+ - 9:16 visual safe-zone:
+ - Pilot mobile browser:
+ - MP4 export integrity:
+ - SEO and sources:
+Issues and reproduction steps:
+Corrective action:
+Next gate:
+Explicit approval reference:
+NOTE: Never claim PASS without real executed evidence.
