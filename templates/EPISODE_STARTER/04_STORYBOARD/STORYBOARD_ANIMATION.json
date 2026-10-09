@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.1",
+  "episode_id": "EP_TEMPLATE",
+  "timeline_source": "AUDIO_TIMELINE.json",
+  "duration_ms": null,
+  "fps": 30,
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "shots": [],
+  "seconds": [],
+  "keyframes": [],
+  "asset_references": [],
+  "rules": {
+    "audio_master_clock": true,
+    "seconds_complete_half_open_intervals": true,
+    "no_forced_one_second_cuts": true,
+    "no_unapproved_asset_or_claim": true
+  },
+  "status": "DRAFT_NOT_STARTED"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.1",
+  "episode_id": "EP_TEMPLATE",
+  "audio_file": null,
+  "audio_sha256": null,
+  "audio_duration_ms": null,
+  "sample_rate": null,
+  "channels": null,
+  "srt_file": null,
+  "srt_sha256": null,
+  "sync_method": null,
+  "sync_review": "NOT_RUN",
+  "fps": 30,
+  "cues": [],
+  "spoken_phrases": [],
+  "notes": "Populate from measured audio and reviewed SRT; never estimate timestamps as confirmed."
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.1",
+  "episode_id": "EP_TEMPLATE",
+  "project_title": "",
+  "audience": "US / international",
+  "public_language": "en-US",
+  "working_language": "id-ID",
+  "format": {
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "default_duration_seconds_range": [
+      75,
+      120
+    ],
+    "actual_audio_duration_ms": null
+  },
+  "prompt_version": "V1.1",
+  "project_stage": "NOT_STARTED",
+  "narration": {
+    "version": null,
+    "locked": false,
+    "sha256": null
+  },
+  "audio": {
+    "path": null,
+    "sha256": null,
+    "srt_path": null,
+    "srt_validation": "NOT_RUN"
+  },
+  "asset_policy": {
+    "internet_first": true,
+    "ai_generation_allowed": false,
+    "ai_generation_explicit_approval": null
+  },
+  "gates": {
+    "G00": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G01": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G02": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G03": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G04": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G05": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G06": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G07": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G08": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G09": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G10": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    },
+    "G11": {
+      "status": "NOT_STARTED",
+      "evidence_files": [],
+      "approved_by": null,
+      "approved_at": null,
+      "notes": ""
+    }
+  },
+  "next_step": "STEP_00",
+  "last_verified_at": null
+}
